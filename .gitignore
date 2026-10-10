@@ -1,0 +1,10 @@
+# Jupyter i Python
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+
+# Pliki tworzone w trakcie ćwiczeń
+dane/ema_utf8.csv
+
+# Rozwiązania nie trafiają do repo
+*-rozwiazania.ipynb
